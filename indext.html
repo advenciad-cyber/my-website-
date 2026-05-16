@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Website Pribadi Desti</title>
+
+<style>
+
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+/* BODY */
+body{
+    background: rgb(242, 127, 215);
+    color: white;
+}
+
+/* NAVBAR */
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 10%;
+    background: rgba(248, 125, 224, 0.8);
+    backdrop-filter: blur(10px);
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.navbar a{
+    color: rgb(233, 224, 224);
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    color: #f51af1;
+}
+
+/* HERO */
+.hero{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(135deg,#edabd5,#f50fb4);
+}
+
+.hero h1{
+    font-size: 45px;
+}
+
+.hero p{
+    color: #cbd5e1;
+    margin-top: 10px;
+}
+
+.btn{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #ee9de9;
+    color: black;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+/* SECTION */
+section{
+    padding: 100px 10%;
+}
+
+/* ABOUT */
+.about{
+    background: #111827;
+    border-radius: 20px;
+}
+
+/* SKILLS */
+.skills{
+    text-align: center;
+}
+
+.skill-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.skill-box{
+    background: #111827;
+    padding: 20px;
+    width: 250px;
+    border-radius: 15px;
+    transition: 0.3s;
+}
+
+.skill-box:hover{
+    transform: translateY(-10px);
+    background: #1f2937;
+}
+
+/* CONTACT */
+.contact{
+    background: #111827;
+    border-radius: 20px;
+}
+
+input,textarea{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 8px;
+}
+
+button{
+    margin-top: 10px;
+    padding: 10px;
+    background: #38bdf8;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover{
+    background: #0ea5e9;
+}
+
+</style>
+
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <<!-- NAVBAR -->
+<nav class="navbar">
+    <h2 class="logo">AD</h2>
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+
+<!-- HOME -->
+<section id="home" class="hero">
+    <div class="hero-text">
+        <section class="hero">
+    <div class="hero-text">
+        <div class="foto-profil">
+            <img src="foto.jpg" alt="Foto Profil">
+        </div>
+        <h1>Halo, Saya Advencia Desti</h1>
+        <p>lulusan dari Politeknik Negeri Ujung Pandang Jurusan Administrasi Niaga 
+            Program Studi D4 Administrasi Niaga.</p>
+    </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about" class="about">
+    <h1>Tentang Saya</h1>
+    <p>
+        Lulusan dari Politeknik Negeri Ujung Pandang Jurusan Administrasi Niaga Program Studi D4 Administrasi Niaga. Saya memiliki ketertarikan di bidang administrasi dan Keselamatan dan Kesehatan Kerja (K3). Saya adalah pribadi yang teliti, disiplin, dan mampu bekerja dengan baik secara individu maupun dalam tim.
+Saya telah mengikuti pelatihan Ahli K3 Umum, yang memberikan saya pengetahuan tentang identifikasi potensi bahaya, pengendalian risiko, serta penerapan keselamatan kerja di lingkungan industri.
+Saya selalu berusaha untuk terus belajar dan mengembangkan kemampuan agar dapat memberikan kontribusi yang baik di tempat kerja
+    </p>
+</section>
+
+<!--Skills-->
+</section>
+<section id="Skills" class="Skills">
+    <h1>skills</h1>
+    <p>
+        Berikut beberapa kemampuan yang saya miliki:</p>
+
+    <div class="skill-container">
+
+        <div class="skill-box">
+            <h3>Administrasi</h3>
+            <ul>
+                <li>Microsoft Word</li>
+                <li>Microsoft Excel</li>
+                <li>Microsoft PowerPoint</li>
+                <li>Pengelolaan Dokumen</li>
+            </ul>
+        </div>
+
+        <div class="skill-box">
+            <h3>K3</h3>
+            <ul>
+                <li>Keselamatan Kerja</li>
+                <li>Identifikasi Bahaya</li>
+                <li>Penggunaan APD</li>
+            </ul>
+        </div>
+
+    </div>
+
+</section>
+            </ul>
+        </div>
+        <section id="contact" class="contact">
+
+    <h1>Kontak Saya</h1>
+    <p>Silakan hubungi saya melalui form di bawah ini:</p>
+
+    <div class="contact-container">
+
+        <form>
+            <input type="text" placeholder="Nama Anda" required>
+            <input type="email" placeholder="Email Anda" required>
+            <textarea placeholder="Pesan Anda" rows="5" required></textarea>
+
+            <button type="submit">Kirim Pesan</button>
+        </form>
+
+        <div class="contact-info">
+            <h3>Informasi</h3>
+            <p>Email: advemciad@email.com</p>
+            <p>WhatsApp: 0895631958683</p>
+            <p>Instagram: @advenciadestililis</p>
+        </div>
+
+    </div>
+
+
+
+    </div>
+
+</section>
