@@ -1,0 +1,471 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/DESTI/Coding/indexts.html#
+Subject: 
+Date: Sun, 17 May 2026 14:54:22 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--2yyHmdmoWUGFcAWvkjg9kEH337NkUW4GHo5H8UK86R----"
+
+
+------MultipartBoundary--2yyHmdmoWUGFcAWvkjg9kEH337NkUW4GHo5H8UK86R----
+Content-Type: text/html
+Content-ID: <frame-4021462B61155A1E43D1660B6AD5D837@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/DESTI/Coding/indexts.html#
+
+<!-- HOME SECTION --><html><head><meta http-equiv=3D"Content-Type" content=
+=3D"text/html; charset=3Dwindows-1252"><link rel=3D"stylesheet" type=3D"tex=
+t/css" href=3D"cid:css-a1fa4ac0-0a7d-4e25-9a31-ff2218bf2e3b@mhtml.blink" />=
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-eaa89879-0a95-42=
+08-b8e3-c4f7346f370c@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/c=
+ss" href=3D"cid:css-4ceacb72-36a9-4175-8c66-9e9d23dab8a0@mhtml.blink" /><li=
+nk rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-284b4a38-7e16-480c-=
+8704-9ba47bfdd443@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css"=
+ href=3D"cid:css-5ddbc212-8846-4bfc-900b-d92a34ea3e9a@mhtml.blink" /><link =
+rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-683aa3c9-a4f1-4ed2-857=
+2-3b31233b2943@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" hr=
+ef=3D"cid:css-f5928b50-8edc-4c6a-9fe2-17acb841d9c8@mhtml.blink" /></head><b=
+ody><section id=3D"home" class=3D"home">
+  <div class=3D"home-content">
+   =20
+    <!-- FOTO -->
+   <img src=3D"file:///C:/DESTI/Coding/foto.png" alt=3D"Foto Desti" class=
+=3D"profile-img">
+
+    <!-- TEKS -->
+    <h1>Halo, Saya Desti</h1>
+    <p>
+      Selamat datang di website pribadi saya.
+      Saya memiliki minat di bidang Keselamatan dan Kesehatan Kerja (K3)
+      serta desain website sederhana.
+    </p>
+
+    <!-- TOMBOL -->
+    <a href=3D"file:///C:/DESTI/Coding/indexts.html#about" class=3D"btn">Te=
+ntang Saya</a>
+
+  </div>
+</section>
+
+
+<!-- ABOUT SECTION -->
+<section id=3D"about" class=3D"about">
+  <div class=3D"about-container">
+
+    <h2>Tentang Saya</h2>
+
+    <p>
+      Halo, saya Desti. Saya memiliki minat di bidang=20
+      Keselamatan dan Kesehatan Kerja (K3), desain website,
+      serta teknologi. Saya senang mempelajari hal baru dan=20
+      mengembangkan kemampuan diri.
+    </p>
+
+    <p>
+      Saya adalah pribadi yang disiplin, bertanggung jawab,
+      dan mampu bekerja sama dalam tim maupun individu.
+    </p>
+
+  </div>
+</section>
+
+
+
+<!-- SKILL SECTION -->
+<section id=3D"skill" class=3D"skill">
+  <h2>My Skills</h2>
+
+  <div class=3D"skill-container">
+
+    <!-- SKILL 1 -->
+    <div class=3D"skill-box">
+      <h3>Administrasi</h3>
+      <p>
+        Mampu mengelola data, dokumen, dan pekerjaan administrasi dengan ba=
+ik.
+      </p>
+    </div>
+
+    <!-- SKILL 2 -->
+    <div class=3D"skill-box">
+      <h3>Microsoft Office</h3>
+      <p>
+        Menguasai Microsoft Word, Excel, dan PowerPoint untuk kebutuhan ker=
+ja.
+      </p>
+    </div>
+
+    <!-- SKILL 3 -->
+    <div class=3D"skill-box">
+      <h3>Keselamatan &amp; Kesehatan Kerja</h3>
+      <p>
+        Memiliki minat dan pengetahuan dasar mengenai K3 di lingkungan kerj=
+a.
+      </p>
+    </div>
+
+    <!-- SKILL 4 -->
+    <div class=3D"skill-box">
+      <h3>Komunikasi</h3>
+      <p>
+        Memiliki kemampuan komunikasi dan kerja sama tim yang baik.
+      </p>
+    </div>
+
+  </div>
+</section>
+
+
+<!-- ORGANISASI SECTION -->
+<section id=3D"organisasi" class=3D"organisasi">
+  <h2>Pengalaman Organisasi</h2>
+
+  <div class=3D"organisasi-container">
+
+    <!-- ORGANISASI 1 -->
+    <div class=3D"organisasi-box">
+      <span>IMT Sikamali PNUP</span>
+      <h3>Badan Pemeriksa Keuangan dan Inventaris</h3>
+      <p>
+        Bertugas memeriksa keuangan dan inventaris organisasi=20
+        selama satu periode kepengurusan guna memastikan pengelolaan=20
+        berjalan dengan baik dan tertata.
+      </p>
+    </div>
+
+    <!-- ORGANISASI 2 -->
+    <div class=3D"organisasi-box">
+      <span>LDK KMK PNUP</span>
+      <h3>Bendahara Panitia</h3>
+      <p>
+        Bertugas mengelola dan mencatat seluruh pemasukan serta=20
+        pengeluaran dana kegiatan. Menyusun laporan keuangan secara=20
+        rapi, transparan, dan dapat dipertanggungjawabkan.
+      </p>
+    </div>
+
+  </div>
+</section>
+
+
+<!-- PELATIHAN SECTION -->
+<section id=3D"pelatihan" class=3D"pelatihan">
+  <h2>Pelatihan</h2>
+
+  <div class=3D"pelatihan-container">
+
+    <!-- BOX PELATIHAN -->
+    <div class=3D"pelatihan-box">
+      <span>2026</span>
+      <h3>Pelatihan Ahli K3 Umum</h3>
+
+      <p>
+        Mengikuti pelatihan Keselamatan dan Kesehatan Kerja (K3)=20
+        untuk meningkatkan pengetahuan mengenai identifikasi bahaya,=20
+        pengendalian risiko kerja, penggunaan APD, serta penerapan=20
+        prosedur keselamatan di lingkungan kerja.
+      </p>
+
+      <!-- LIST -->
+      <ul>
+        <li>Identifikasi Potensi Bahaya</li>
+        <li>Pengendalian Risiko Kerja</li>
+        <li>Penggunaan Alat Pelindung Diri (APD)</li>
+        <li>Prosedur Keselamatan Kerja</li>
+        <li>Dasar Sistem Manajemen K3</li>
+      </ul>
+
+    </div>
+
+  </div>
+</section>
+
+
+
+<!-- MAGANG SECTION -->
+<section id=3D"magang" class=3D"magang">
+  <h2>Pengalaman Magang</h2>
+
+  <div class=3D"magang-container">
+
+    <!-- BOX MAGANG -->
+    <div class=3D"magang-box">
+
+      <span>Februari 2025 - Mei 2025</span>
+
+      <h3>PT PLN Persero UP3 Makassar Utara</h3>
+
+      <h4>Pemasaran dan Pelayanan Pelanggan</h4>
+
+      <ul>
+        <li>
+          Melakukan kegiatan pemasaran pada website=20
+          CRM (Customer Relationship Management).
+        </li>
+
+        <li>
+          Memonitoring aktivitas pegawai di lapangan=20
+          melalui website New ITO.
+        </li>
+
+        <li>
+          Melakukan kegiatan administrasi, pengarsipan,=20
+          serta menyimpan dokumen sesuai klasifikasi=20
+          yang telah ditentukan.
+        </li>
+      </ul>
+
+    </div>
+
+  </div>
+</section>
+
+
+<!-- KONTAK SECTION -->
+<section id=3D"kontak" class=3D"kontak">
+  <h2>Kontak Personal</h2>
+
+  <div class=3D"kontak-container">
+
+    <!-- INFO KONTAK -->
+    <div class=3D"kontak-info">
+      <h3>Hubungi Saya</h3>
+
+      <p><b>Nama:</b> Advencia Destililis Palindangan</p>
+      <p><b>Email:</b> Advenciad@email.com</p>
+      <p><b>Telepon:</b> 0895631958683</p>=20
+      <p><b>Alamat:</b> Sulawesi Selatam, Indonesia</p>
+
+      <!-- SOSIAL MEDIA -->
+      <div class=3D"sosmed">
+        <a href=3D"file:///C:/DESTI/Coding/indexts.html#" target=3D"_blank"=
+>WhatsApp</a>
+        <a href=3D"file:///C:/DESTI/Coding/indexts.html#" target=3D"_blank"=
+>Instagram</a>
+        <a href=3D"file:///C:/DESTI/Coding/indexts.html#" target=3D"_blank"=
+>LinkedIn</a>
+      </div>
+    </div>
+
+    <!-- FORM KONTAK -->
+    <form class=3D"kontak-form">
+      <input type=3D"text" placeholder=3D"Nama Anda" required=3D"">
+      <input type=3D"email" placeholder=3D"Email Anda" required=3D"">
+      <textarea rows=3D"5" placeholder=3D"Pesan Anda" required=3D""></texta=
+rea>
+      <button type=3D"submit">Kirim Pesan</button>
+    </form>
+
+  </div>
+</section>
+
+
+</body></html>
+------MultipartBoundary--2yyHmdmoWUGFcAWvkjg9kEH337NkUW4GHo5H8UK86R----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f5928b50-8edc-4c6a-9fe2-17acb841d9c8@mhtml.blink
+
+@charset "windows-1252";
+
+.kontak { padding: 100px 20px; background: rgb(255, 255, 255); text-align: =
+center; }
+
+.kontak h2 { font-size: 40px; color: rgb(255, 79, 129); margin-bottom: 50px=
+; }
+
+.kontak-container { display: grid; grid-template-columns: repeat(auto-fit, =
+minmax(280px, 1fr)); gap: 30px; max-width: 1000px; margin: auto; align-item=
+s: start; }
+
+.kontak-info { text-align: left; background: rgb(255, 240, 245); padding: 2=
+5px; border-radius: 20px; border-left: 8px solid rgb(255, 79, 129); }
+
+.sosmed { margin-top: 15px; }
+
+.sosmed a { display: inline-block; margin-right: 10px; padding: 8px 12px; b=
+ackground: rgb(255, 79, 129); color: white; text-decoration: none; border-r=
+adius: 20px; font-size: 14px; transition: 0.3s; }
+
+.sosmed a:hover { background: rgb(230, 62, 112); }
+
+.kontak-form { background: rgb(255, 240, 245); padding: 25px; border-radius=
+: 20px; border-left: 8px solid rgb(255, 79, 129); display: flex; flex-direc=
+tion: column; }
+
+.kontak-form input, .kontak-form textarea { margin-bottom: 15px; padding: 1=
+2px; border: 1px solid rgb(221, 221, 221); border-radius: 10px; outline: no=
+ne; }
+
+.kontak-form button { padding: 12px; background: rgb(255, 79, 129); color: =
+white; border-width: medium; border-style: none; border-color: currentcolor=
+; border-image: initial; border-radius: 10px; cursor: pointer; font-weight:=
+ bold; transition: 0.3s; }
+
+.kontak-form button:hover { background: rgb(230, 62, 112); }
+------MultipartBoundary--2yyHmdmoWUGFcAWvkjg9kEH337NkUW4GHo5H8UK86R----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-683aa3c9-a4f1-4ed2-8572-3b31233b2943@mhtml.blink
+
+@charset "windows-1252";
+
+.magang { padding: 100px 20px; background: rgb(255, 255, 255); text-align: =
+center; }
+
+.magang h2 { font-size: 40px; color: rgb(255, 79, 129); margin-bottom: 50px=
+; }
+
+.magang-container { max-width: 900px; margin: auto; }
+
+.magang-box { background: rgb(255, 240, 245); padding: 35px; border-radius:=
+ 20px; text-align: left; border-left: 8px solid rgb(255, 79, 129); box-shad=
+ow: rgba(0, 0, 0, 0.1) 0px 5px 15px; transition: 0.3s; }
+
+.magang-box:hover { transform: translateY(-10px); }
+
+.magang-box span { color: rgb(255, 79, 129); font-weight: bold; font-size: =
+15px; }
+
+.magang-box h3 { margin-top: 10px; color: rgb(51, 51, 51); font-size: 28px;=
+ }
+
+.magang-box h4 { color: rgb(102, 102, 102); margin: 15px 0px; font-size: 20=
+px; }
+
+.magang-box ul { padding-left: 20px; }
+
+.magang-box ul li { margin-bottom: 12px; color: rgb(68, 68, 68); line-heigh=
+t: 1.8; }
+------MultipartBoundary--2yyHmdmoWUGFcAWvkjg9kEH337NkUW4GHo5H8UK86R----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5ddbc212-8846-4bfc-900b-d92a34ea3e9a@mhtml.blink
+
+@charset "windows-1252";
+
+.pelatihan { padding: 100px 20px; background: rgb(255, 240, 245); text-alig=
+n: center; }
+
+.pelatihan h2 { font-size: 40px; color: rgb(255, 79, 129); margin-bottom: 5=
+0px; }
+
+.pelatihan-container { max-width: 900px; margin: auto; }
+
+.pelatihan-box { background: white; padding: 35px; border-radius: 20px; tex=
+t-align: left; box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 15px; border-left: 8p=
+x solid rgb(255, 79, 129); transition: 0.3s; }
+
+.pelatihan-box:hover { transform: translateY(-10px); }
+
+.pelatihan-box span { color: rgb(255, 79, 129); font-weight: bold; font-siz=
+e: 15px; }
+
+.pelatihan-box h3 { margin: 10px 0px 20px; font-size: 28px; color: rgb(51, =
+51, 51); }
+
+.pelatihan-box p { color: rgb(85, 85, 85); line-height: 1.8; margin-bottom:=
+ 20px; }
+
+.pelatihan-box ul { padding-left: 20px; }
+
+.pelatihan-box ul li { margin-bottom: 10px; color: rgb(68, 68, 68); }
+------MultipartBoundary--2yyHmdmoWUGFcAWvkjg9kEH337NkUW4GHo5H8UK86R----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-284b4a38-7e16-480c-8704-9ba47bfdd443@mhtml.blink
+
+@charset "windows-1252";
+
+.organisasi { padding: 100px 20px; background: rgb(255, 255, 255); text-ali=
+gn: center; }
+
+.organisasi h2 { font-size: 40px; color: rgb(255, 79, 129); margin-bottom: =
+50px; }
+
+.organisasi-container { max-width: 900px; margin: auto; display: flex; flex=
+-direction: column; gap: 25px; }
+
+.organisasi-box { background: rgb(255, 240, 245); padding: 30px; border-lef=
+t: 8px solid rgb(255, 79, 129); border-radius: 15px; text-align: left; box-=
+shadow: rgba(0, 0, 0, 0.1) 0px 5px 15px; transition: 0.3s; }
+
+.organisasi-box:hover { transform: translateX(10px); }
+
+.organisasi-box span { font-size: 15px; color: rgb(255, 79, 129); font-weig=
+ht: bold; }
+
+.organisasi-box h3 { margin: 10px 0px; color: rgb(51, 51, 51); font-size: 2=
+4px; }
+
+.organisasi-box p { color: rgb(85, 85, 85); line-height: 1.8; }
+------MultipartBoundary--2yyHmdmoWUGFcAWvkjg9kEH337NkUW4GHo5H8UK86R----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-4ceacb72-36a9-4175-8c66-9e9d23dab8a0@mhtml.blink
+
+@charset "windows-1252";
+
+.skill { padding: 100px 20px; background: rgb(255, 240, 245); text-align: c=
+enter; }
+
+.skill h2 { font-size: 40px; color: rgb(255, 79, 129); margin-bottom: 50px;=
+ }
+
+.skill-container { display: grid; grid-template-columns: repeat(auto-fit, m=
+inmax(250px, 1fr)); gap: 25px; max-width: 1000px; margin: auto; }
+
+.skill-box { background: white; padding: 30px; border-radius: 20px; box-sha=
+dow: rgba(0, 0, 0, 0.1) 0px 5px 15px; transition: 0.3s; }
+
+.skill-box:hover { transform: translateY(-10px); }
+
+.skill-box h3 { color: rgb(255, 79, 129); margin-bottom: 15px; font-size: 2=
+4px; }
+
+.skill-box p { color: rgb(85, 85, 85); line-height: 1.6; }
+------MultipartBoundary--2yyHmdmoWUGFcAWvkjg9kEH337NkUW4GHo5H8UK86R----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-eaa89879-0a95-4208-b8e3-c4f7346f370c@mhtml.blink
+
+@charset "windows-1252";
+
+.about { padding: 100px 20px; background: rgb(255, 255, 255); text-align: c=
+enter; }
+
+.about-container { max-width: 800px; margin: auto; }
+
+.about h2 { font-size: 40px; color: rgb(255, 79, 129); margin-bottom: 20px;=
+ }
+
+.about p { font-size: 18px; color: rgb(85, 85, 85); line-height: 1.8; margi=
+n-bottom: 15px; }
+------MultipartBoundary--2yyHmdmoWUGFcAWvkjg9kEH337NkUW4GHo5H8UK86R----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-a1fa4ac0-0a7d-4e25-9a31-ff2218bf2e3b@mhtml.blink
+
+@charset "windows-1252";
+
+.home { height: 100vh; background: linear-gradient(to right, rgb(255, 154, =
+158), rgb(250, 208, 196)); display: flex; justify-content: center; align-it=
+ems: center; text-align: center; padding: 20px; }
+
+.home-content { max-width: 600px; }
+
+.profile-img { width: 180px; height: 180px; border-radius: 50%; object-fit:=
+ cover; border: 5px solid white; margin-bottom: 20px; }
+
+.home h1 { font-size: 45px; color: white; margin-bottom: 10px; }
+
+.home p { font-size: 18px; color: white; margin-bottom: 20px; line-height: =
+1.6; }
+
+.btn { display: inline-block; padding: 12px 25px; background: white; color:=
+ rgb(255, 79, 129); text-decoration: none; border-radius: 30px; font-weight=
+: bold; transition: 0.3s; }
+
+.btn:hover { background: rgb(255, 79, 129); color: white; }
+------MultipartBoundary--2yyHmdmoWUGFcAWvkjg9kEH337NkUW4GHo5H8UK86R------
